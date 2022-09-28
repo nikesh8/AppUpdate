@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'AppUpdate is library for managing app updates and its maintenance. It will handle from out web portal.'
 
-  s.homepage         = 'https://github.com/nikesh/AppUpdate'
+  s.homepage         = 'https://github.com/nikesh8/AppUpdate'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'nikesh' => 'nikesh@logicwind.com' }
-  s.source           = { :git => 'https://github.com/nikesh/AppUpdate.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nikesh8/AppUpdate.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
   s.swift_version = '5.0'
