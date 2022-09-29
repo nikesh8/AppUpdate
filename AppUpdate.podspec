@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/nikesh8/AppUpdate'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'nikesh' => 'nikesh@logicwind.com' }
+  s.author           = { 'nikesh8' => 'nikesh@logicwind.com' }
   s.source           = { :git => 'https://github.com/nikesh8/AppUpdate.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   
